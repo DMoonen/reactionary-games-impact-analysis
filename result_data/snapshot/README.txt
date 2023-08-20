@@ -1,0 +1,1 @@
+Do note that for the snapshot values, only the last party/player has had their reward normalized by the value 0.03259785438. ALL other parties have not have had their rewards normalized. These therefore cannot be worked with, or compared to eachtother.
