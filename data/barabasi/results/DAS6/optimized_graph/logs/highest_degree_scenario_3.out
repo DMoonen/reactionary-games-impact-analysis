@@ -1,0 +1,103 @@
+Scenario 3, tx: 100
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Choice(s):  ['8']
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Choice(s):  ['8']
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Choice(s):  ['0']
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Choice(s):  ['0']
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Choice(s):  ['7']
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Choice(s):  ['7']
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Choice(s):  ['1']
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Choice(s):  ['1']
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Choice(s):  ['6']
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Choice(s):  ['6']
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_highest_degree_100_randomness_scenario_3.json
+Scenario 3, tx: 10000
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Choice(s):  ['6']
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Choice(s):  ['6']
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Choice(s):  ['0']
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Choice(s):  ['0']
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Choice(s):  ['10']
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Choice(s):  ['10']
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Choice(s):  ['8']
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Choice(s):  ['8']
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Choice(s):  ['4']
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Choice(s):  ['4']
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_highest_degree_10000_randomness_scenario_3.json
+Scenario 3, tx: 1000000
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Choice(s):  ['0']
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Choice(s):  ['0']
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Choice(s):  ['2']
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Choice(s):  ['2']
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Choice(s):  ['7']
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Choice(s):  ['7']
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Choice(s):  ['8']
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Choice(s):  ['8']
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Choice(s):  ['3']
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Choice(s):  ['3']
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_highest_degree_1000000_randomness_scenario_3.json
+1609.430 seconds passed

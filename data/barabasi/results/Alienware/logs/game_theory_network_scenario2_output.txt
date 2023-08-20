@@ -1,0 +1,33 @@
+Game Theory Network, tx: 100
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Set edge: 50 -> 0 to fee: 509
+Set edge: 50 -> 4 to fee: 509
+Set edge: 50 -> 13 to fee: 509
+Set edge: 50 -> 8 to fee: 509
+Set edge: 50 -> 10 to fee: 509
+Set edge: 50 -> 16 to fee: 509
+Set edge: 50 -> 7 to fee: 93
+Set edge: 50 -> 9 to fee: 167
+Set edge: 50 -> 3 to fee: 98
+Set edge: 50 -> 20 to fee: 309
+Set edge: 50 -> 5 to fee: 175
+Set edge: 50 -> 15 to fee: 190
+Set edge: 50 -> 17 to fee: 14
+Set edge: 50 -> 11 to fee: 75
+Set edge: 50 -> 23 to fee: 547
+Set edge: 50 -> 28 to fee: 509
+Set edge: 50 -> 14 to fee: 294
+Set edge: 50 -> 26 to fee: 46
+Set edge: 50 -> 18 to fee: 161
+Set edge: 50 -> 27 to fee: 105
+Set edge: 50 -> 21 to fee: 424
+Set edge: 50 -> 12 to fee: 184
+Set edge: 50 -> 2 to fee: 261
+Set edge: 50 -> 1 to fee: 137
+Set edge: 50 -> 25 to fee: 357
+Set edge: 50 -> 31 to fee: 234
+Set edge: 50 -> 30 to fee: 226
+Set edge: 50 -> 33 to fee: 424
+Set edge: 50 -> 19 to fee: 151

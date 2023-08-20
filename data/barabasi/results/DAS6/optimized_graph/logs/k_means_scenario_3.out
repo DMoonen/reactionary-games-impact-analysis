@@ -1,0 +1,73 @@
+Scenario 3, tx: 100
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_k_means_100_randomness_scenario_3.json
+Scenario 3, tx: 10000
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_k_means_10000_randomness_scenario_3.json
+Scenario 3, tx: 1000000
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_k_means_1000000_randomness_scenario_3.json
+3507.706 seconds passed

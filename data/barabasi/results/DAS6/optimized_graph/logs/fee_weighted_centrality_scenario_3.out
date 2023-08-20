@@ -1,0 +1,103 @@
+Scenario 3, tx: 100
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Final choice 200 -> 181, fee: 335, reward: 46216.0
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Final choice 201 -> 181, fee: 334, reward: 45124.0
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Final choice 200 -> 162, fee: 380, reward: 38475.0
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Final choice 201 -> 162, fee: 379, reward: 81986.0
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Final choice 200 -> 116, fee: 307, reward: 35565.0
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Final choice 201 -> 116, fee: 306, reward: 116331.0
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Final choice 200 -> 199, fee: 319, reward: 30214.0
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Final choice 201 -> 199, fee: 318, reward: 145334.0
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Final choice 200 -> 109, fee: 237, reward: 29634.0
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Final choice 201 -> 159, fee: 231, reward: 173075.0
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_fee_weighted_centrality_100_randomness_scenario_3.json
+Scenario 3, tx: 10000
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Final choice 200 -> 179, fee: 314, reward: 32342.0
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Final choice 201 -> 101, fee: 357, reward: 31773.0
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Final choice 200 -> 101, fee: 356, reward: 63670.0
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Final choice 201 -> 179, fee: 313, reward: 31613.0
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Final choice 200 -> 165, fee: 313, reward: 62316.0
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Final choice 201 -> 165, fee: 309, reward: 62208.0
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Final choice 200 -> 107, fee: 193, reward: 60005.5
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Final choice 201 -> 107, fee: 190, reward: 87397.0
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Final choice 200 -> 138, fee: 330, reward: 59894.0
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Final choice 201 -> 138, fee: 329, reward: 114565.0
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_fee_weighted_centrality_10000_randomness_scenario_3.json
+Scenario 3, tx: 1000000
+Loading graph...
+Graph loaded...
+Placing connection #1 for 'our' node.
+Final choice 200 -> 5, fee: 498, reward: 40845.0
+Connection #1 placed for 'our' node.
+Placing connection #1 for 'other' ID=201.
+Final choice 201 -> 5, fee: 497, reward: 40266.0
+Connection #1 placed for 'other' ID=201.
+Placing connection #2 for 'our' node.
+Final choice 200 -> 118, fee: 729, reward: 41829.0
+Connection #2 placed for 'our' node.
+Placing connection #2 for 'other' ID=201.
+Final choice 201 -> 118, fee: 728, reward: 81300.0
+Connection #2 placed for 'other' ID=201.
+Placing connection #3 for 'our' node.
+Final choice 200 -> 165, fee: 724, reward: 24630.0
+Connection #3 placed for 'our' node.
+Placing connection #3 for 'other' ID=201.
+Final choice 201 -> 165, fee: 723, reward: 104436.0
+Connection #3 placed for 'other' ID=201.
+Placing connection #4 for 'our' node.
+Final choice 200 -> 169, fee: 463, reward: 24647.0
+Connection #4 placed for 'our' node.
+Placing connection #4 for 'other' ID=201.
+Final choice 201 -> 169, fee: 462, reward: 128560.0
+Connection #4 placed for 'other' ID=201.
+Placing connection #5 for 'our' node.
+Final choice 200 -> 180, fee: 666, reward: 24926.0
+Connection #5 placed for 'our' node.
+Placing connection #5 for 'other' ID=201.
+Final choice 201 -> 180, fee: 665, reward: 152760.5
+Connection #5 placed for 'other' ID=201.
+Written rewards data to file: data/barabasi/results/rewards_fee_weighted_centrality_1000000_randomness_scenario_3.json
+10862.144 seconds passed
