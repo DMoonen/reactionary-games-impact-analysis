@@ -1,0 +1,11 @@
+#!/bin/bash
+#SBATCH --job-name=fee_weighted_centrality_3
+#SBATCH --time=115:00:00
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=16
+
+a=$(date +%s%N)
+python fee_weighted_centrality_scenario_3.py
+b=$(date +%s%N)
+diff=$((b-a))
+printf "%s.%s seconds passed" "${diff:0: -9}" "${diff: -9:3}"

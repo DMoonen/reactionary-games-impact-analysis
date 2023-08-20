@@ -1,0 +1,7 @@
+#!/bin/bash
+#SBATCH --job-name=betweenness_centrality_optimization_comparison
+#SBATCH --time=115:00:00
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=16
+
+python betweenness_centrality_scenario_1_nonoptimized.py

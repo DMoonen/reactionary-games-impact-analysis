@@ -1,0 +1,7 @@
+#!/bin/bash
+#SBATCH --job-name=highest_deg
+#SBATCH --time=115:00:00
+#SBATCH -N 1
+#SBATCH --ntasks-per-node=16
+
+python function_analysis.py
